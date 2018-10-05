@@ -2,6 +2,7 @@
   "name": "gameoflife",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://praneethashetti.github.io/GameofLife/",
   "dependencies": {
     "gh-pages": "^2.0.0",
     "react": "^16.4.1",
